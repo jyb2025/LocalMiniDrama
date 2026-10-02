@@ -28,7 +28,7 @@
 <tr>
 <td width="25%" align="center"><b>🔒 本地优先</b><br/>SQLite + 本地文件，素材不上云</td>
 <td width="25%" align="center"><b>🎬 全流程</b><br/>剧本 → 角色/场景 → 分镜 → 视频合成</td>
-<td width="25%" align="center"><b>🤖 多模型</b><br/>通义 / 火山 / 可灵 / Gemini 等</td>
+<td width="25%" align="center"><b>🤖 多模型</b><br/>ollama文本生成 / comfyui图片视频生成</td>
 <td width="25%" align="center"><b>🗺 双视图</b><br/>列表精细编辑 + 画布批量编排</td>
 </tr>
 </table>
