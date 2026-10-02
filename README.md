@@ -2,7 +2,7 @@
 
 # 🎬 本地短剧助手
 
-**本地 AI 短剧 & 漫剧生成工具 —— 下载即用，完全开源，数据不出本机**
+**本地 AI 短剧 & 漫剧生成工具 —— 下载即用，完全开源，本地ollama+comfyui数据不出本机**
 
 *LocalMiniDrama · AI-powered short drama creator*
 
