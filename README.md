@@ -5,6 +5,7 @@
 **本地 AI 短剧 & 漫剧生成工具 —— 下载即用，完全开源，本地ollama+comfyui数据不出本机**
 
 *forked from xuanyustudio/LocalMiniDrama，修改了videoService.js*
+
 *LocalMiniDrama · AI-powered short drama creator*
 
 [![version](https://img.shields.io/badge/version-1.2.8-blue?style=flat-square)](https://github.com/xuanyustudio/LocalMiniDrama/releases)
